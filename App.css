@@ -1,0 +1,57 @@
+body{
+  background-color: black;
+  background-image: url(https://images.unsplash.com/photo-1516912481808-3406841bd33c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2VhdGhlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.degsym{
+  padding-bottom: 10px;
+}
+.cityName{
+  margin-top: 130px;
+}
+h1{
+  font-size: 4rem;
+  margin-left: 50px;
+  color: white;
+}
+#coluds{
+  float: right;
+  font-size: 2rem;
+  letter-spacing: 5px;
+  transform: rotate(-90deg);
+}
+.smallContain{
+  background-color: #bdbfbf;
+  opacity: 0.6;
+  margin-top: 150px;
+  width: 60%;
+  margin-left: 230px;
+  justify-content: space-evenly;
+  border-radius: 10px;
+}
+#down{
+  color: white;
+  font-weight: bolder;
+}
+h4{
+  font-size: 2rem;
+}
+.one{
+  margin-left:30px ;
+}
+.field{
+  border-radius: 0px;
+  margin-top: 50px;
+  margin-left:450px ;
+}
+.btn{
+  margin-top: 0px;
+  margin-left: 10px;
+}
+#title{
+  letter-spacing: 3px;
+  word-spacing: 5px;
+  padding-left:220px;
+}
